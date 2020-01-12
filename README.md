@@ -12,3 +12,5 @@ All Of People Work In CYberSecurity Must Known Work This Tools
 |Recon-NG|[Recon-NG](https://github.com/lanmaster53/recon-ng)|Best Tools For Used OSINT
 |Nessus|[Nessus](https://www.tenable.com/products/nessus)|Tools For Vulnerability Scanner|
 |Wireshark|[Wireshark](https://www.wireshark.org/download.html)|Capturing Packet Network|
+|John the Ripper|[John the Ripper](https://www.openwall.com/john/)|it is the fastest password cracker|
+|Autopsy|[Autospy](http://www.sleuthkit.org/autopsy/)|one of the most used tools inDigital Forensic 
