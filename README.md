@@ -16,3 +16,5 @@ All Of People Work In CYberSecurity Must Known Work This Tools
 |Autopsy|[Autospy](http://www.sleuthkit.org/autopsy/)|one of the most used tools inDigital Forensic|
 |OSSEC|[OSSEC](https://www.ossec.net/)|this tools for Host Intrusion Detection and powerful correlation , analysis engine and| integrating log analysis|
 |Okta|[Okta](https://www.okta.com/)|The Perfect Tracking Tool|
+|Impacket|[Impacket](https://github.com/SecureAuthCorp/impacket)|Python classes to work with network protocols|
+|Dirb|[Dirb](http://dirb.sourceforge.net/)|Web content scanning tool|
