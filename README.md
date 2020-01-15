@@ -16,3 +16,5 @@ All Of People Work In CYberSecurity Must Known Work This Tools
 |Autopsy|[Autospy](http://www.sleuthkit.org/autopsy/)|one of the most used tools inDigital Forensic|
 |OSSEC|[OSSEC](https://www.ossec.net/)|this tools for Host Intrusion Detection and powerful correlation , analysis engine and| integrating log analysis|
 |Okta|[Okta](https://www.okta.com/)|The Perfect Tracking Tool|
+|Dirb|[Dirb](https://tools.kali.org/web-applications/dirb)|Dirb is a Web Scanner. its looking for exits web object. this tools found in kali.|
+|impacket|[impacket](https://github.com/SecureAuthCorp/impacket)|Impacket is a collection of Python classes for working with network protocols and Packet. with this tools you can Constructed Packer From scartch.Thanks troplolBE|
