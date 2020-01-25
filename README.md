@@ -18,3 +18,5 @@ All Of People Work In CYberSecurity Must Known Work This Tools
 |Okta|[Okta](https://www.okta.com/)|The Perfect Tracking Tool|
 |Dirb|[Dirb](https://tools.kali.org/web-applications/dirb)|Dirb is a Web Scanner. its looking for exits web object. this tools found in kali.|
 |impacket|[impacket](https://github.com/SecureAuthCorp/impacket)|Impacket is a collection of Python classes for working with network protocols and Packet. with this tools you can Constructed Packer From scartch.Thanks troplolBE|
+|volatility|[volatility](https://www.volatilityfoundation.org/)|The Volatility Framework is a completely open collection of tools,
+for the extraction of digital artifacts from volatile memory (RAM)-(tnx Mr Shahpasandi)|
